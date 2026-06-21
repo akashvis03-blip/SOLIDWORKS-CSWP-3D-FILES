@@ -41,11 +41,11 @@ DWG file: Screw-driver.SLDPRT
 DWG file: Spring.SLDPRT
 
 
-# Part4
+# Part44good
 
-![Preview](Part4.png)
+![Preview](Part44good.png)
 
-DWG file: Part4.SLDPRT
+DWG file: Part44good.SLDPRT
 
 
 # Part4
