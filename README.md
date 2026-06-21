@@ -6,11 +6,11 @@
 DWG file: Part-carburator-body.SLDPRT
 
 
-# Part4
+# Blower-body
 
-![Preview](Part4.png)
+![Preview](Blower-body.png)
 
-DWG file: Part4.SLDPRT
+DWG file: Blower-body.SLDPRT
 
 
 # Part4
