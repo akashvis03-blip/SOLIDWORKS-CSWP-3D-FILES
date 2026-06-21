@@ -13,11 +13,11 @@ DWG file: Part-carburator-body.SLDPRT
 DWG file: Blower-body.SLDPRT
 
 
-# Part4
+# Exaust-valve
 
-![Preview](Part4.png)
+![Preview](Exaust-valve.png)
 
-DWG file: Part4.SLDPRT
+DWG file: Exaust-valve.SLDPRT
 
 
 # Part4
