@@ -1,9 +1,9 @@
 # SOLIDWORKS-CSWP-3D-FILES
-# Part4
+# Part carburator body
 
-![Preview](Part4.png)
+![Preview](Part carburator body.png)
 
-DWG file: Part4.SLDPRT
+DWG file: Part carburator body.SLDPRT
 
 
 # Part4
