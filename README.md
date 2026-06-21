@@ -20,11 +20,11 @@ DWG file: Blower-body.SLDPRT
 DWG file: Exaust-valve.SLDPRT
 
 
-# Part4
+# Heat-exchanger
 
-![Preview](Part4.png)
+![Preview](Heat-exchanger.png)
 
-DWG file: Part4.SLDPRT
+DWG file: Heat-exchanger.SLDPRT
 
 
 # Part4
