@@ -34,11 +34,11 @@ DWG file: Heat-exchanger.SLDPRT
 DWG file: Screw-driver.SLDPRT
 
 
-# Part4
+# Spring
 
-![Preview](Part4.png)
+![Preview](Spring.png)
 
-DWG file: Part4.SLDPRT
+DWG file: Spring.SLDPRT
 
 
 # Part4
